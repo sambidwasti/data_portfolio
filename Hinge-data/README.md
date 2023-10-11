@@ -1,5 +1,7 @@
 # Hinged Data Analysis
----
+
+Keywords: Python | json | Pandas | Plotly | Data Visualization | Sankey Plot
+
 ## Outline 
 
 - The goal of this project is to analyze the data from hinge dating app. 
