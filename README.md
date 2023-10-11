@@ -5,7 +5,7 @@ Each of the projects have their own folders.
 
 ## Here is a quick description of the projects.
 
-- **[Hinge-Data](https://github.com/sambidwasti/data_portfolio/tree/main/Hinge-data)**: Analyzing data from hinge dating website.
+-  [**Hinge-Data**](https://github.com/sambidwasti/data_portfolio/tree/main/Hinge-data) : Analyzing data from hinge dating website.
   - python | json | plotly | pandas | data visualization  
 
 
