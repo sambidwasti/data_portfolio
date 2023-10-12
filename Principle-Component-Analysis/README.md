@@ -1,12 +1,3 @@
----
-title: "Principle Component Analysis (PCA)"
-date: 2022-06-25T18:35:46+05:30
-draft: false
-description: "Quick example of PCA"
-layout: "gallery"
-tags: pca, python, projects
----
-
 # Overview:
 I noticed randomm articles that try to explain PCA and use python packages that has PCA to look at data. Most of the time, it is refrenced as dimension reduction but it does not address the beauty behind the mathematics of this process. I have attempted to document a simple example here, which i have also explained in a section in my [Phd. dessertation](https://arxiv.org/abs/2012.12939).
 
