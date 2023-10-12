@@ -8,5 +8,7 @@ Each of the projects have their own folders.
 - [**Hinge-Data**](https://github.com/sambidwasti/data_portfolio/tree/main/Hinge-data) : Analyzing data from hinge dating website.
     - python | json | plotly | pandas | data visualization  
 
+- [**Priciple-Component-Analysis**](https://github.com/sambidwasti/data_portfolio/tree/main/Principel-Component-Analysis) : A detailed note (and blog)about principle component analysis, its uses, and the math behind the analysis techniques.
+    - PCA | Correlation | Standardization | Eigen Values | Eigen Vectors
 
 -Sambid Wasti
